@@ -1,0 +1,3 @@
+Log: This is a log message
+You wrote: Esto es una prueba de una sola escucha.
+
