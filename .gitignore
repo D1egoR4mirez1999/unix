@@ -1,3 +1,5 @@
 # Compiled executables (rebuild from source)
 /playground
 /mini_program_c/leer_stdin
+/learning-c/app
+/learning-c/args
