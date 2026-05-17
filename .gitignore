@@ -3,6 +3,7 @@ node_modules/
 
 # Nested git repository (course copy)
 /video-editor/.git/
+/video-editor-dot-git-backup/
 
 # Compiled executables (rebuild from source)
 /playground
