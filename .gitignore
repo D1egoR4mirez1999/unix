@@ -1,6 +1,9 @@
 # Dependencies
 node_modules/
 
+# Nested git repository (course copy)
+/video-editor/.git/
+
 # Compiled executables (rebuild from source)
 /playground
 /mini_program_c/leer_stdin
